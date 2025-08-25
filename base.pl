@@ -1,4 +1,4 @@
-aldea(Rivoria).
+aldea(rivoria).
 % la primera familia es 
 % de esteban y mariela
 esposo(esteban, mariela).
@@ -65,5 +65,6 @@ vive(mateo,durania).
 
 trabaja(irene, criadora).
 vive(irene,durania).
+
 
 
